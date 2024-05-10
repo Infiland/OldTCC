@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"instance_create",
   "parent":{
-    "name":"instance",
-    "path":"folders/Scripts/compatibility/instance.yy",
+    "name":"Default",
+    "path":"folders/Scripts/Default.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

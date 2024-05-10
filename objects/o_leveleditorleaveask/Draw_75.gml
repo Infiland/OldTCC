@@ -1,0 +1,5 @@
+draw_set_alpha(0.5)
+draw_rectangle_color(0,0,2000,2000,c_black,c_black,c_black,c_black,false)
+draw_set_alpha(1)
+draw_sprite(s_leveleditorleaveask,0,224,y)
+y = lerp(y,384,0.2 * (60 / global.maxfps))

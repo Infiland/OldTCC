@@ -1,2 +1,10 @@
-global.time += 0.0333333333333333
+global.delta = delta_time / 1000000;
 
+if global.pause = 0 {
+if room != r_tale {
+global.time += global.delta
+}}
+if room = r_leveleditor {
+global.LESavedWinTime += global.delta
+}
+global.totaltime += global.delta

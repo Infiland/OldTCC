@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_goodending",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":1,
+  "conversionMode":0,
+  "duration":74.67167,
+  "name":"m_goodending",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"m_goodending.wav",
+  "type":1,
+  "volume":1.0,
+}

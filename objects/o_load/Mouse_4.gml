@@ -1,16 +1,37 @@
-if file_exists("Continue.sav") {
-game_load("Continue.sav")
-}
-if room = r_lvl1 or r_lvl2 or r_lvl3 or r_lvl4 or r_lvl5 or r_lvl6 or r_lvl7 or r_lvl8 or r_lvl9 or r_lvl10 or r_lvl11 or r_lvl12 or r_lvl13 or r_lvl14 or r_lvl15 or r_lvl16 or r_lvl17 or r_lvl18 or r_lvl19 or r_lvl20 {
-audio_play_sound(m_basics,0,1)
-}
-if room = r_boss1 {
-audio_play_sound(m_bosstime,0,1)
-if global.boss = 1 {
-audio_stop_sound(m_bosstime)
-}
-}
-if room = r_lvl21 or r_lvl22 or r_lvl23 or r_lvl24 or r_lvl25 or r_lvl26 or r_lvl27 or r_lvl28 or r_lvl70 or r_lvl71 or r_hardlvl1 or r_hardlvl2{
-audio_play_sound(m_owthespikes,0,1)
-}
+if !instance_exists(o_progressask) {
+if !instance_exists(o_quitask) {
+var directory = working_directory + "/Save Files/"
+if file_exists(directory + "SaveFile.sav") {
+window_set_cursor(cr_default)
+audio_sound_pitch(m_mainmenu,1)
+musicandsoundvolumefix()
+global.hardmode = 0
+global.challenges = 0
+global.endless = 0
 
+//Achievements
+	if global.isgrayscale = true {
+	if global.colorblindsettings != 4 {
+	if room != r_settings {
+	global.isgrayscale = false
+	scr_saveachievements()
+	}}}
+	
+	if global.isinvisible = true {
+	if global.skinselected != 35 || global.hatselected != 0 {
+	global.isinvisible = false
+	scr_saveachievements()
+	}}
+
+scr_loadgame()
+rousr_dissonance_set_timestamps(0,undefined)
+audio_stop_sound(m_mainmenu);
+scr_loadsettings()
+o_narrator.l = 0
+if global.musicvolume < 0.01 {
+if room = r_easteregg1 {
+audio_stop_sound(m_warp)	
+}}
+audio_stop_sound(m_mainmenu);
+}
+}}

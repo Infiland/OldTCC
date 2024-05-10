@@ -1,0 +1,1 @@
+steam_details = steam_ugc_request_item_details(level, 30);

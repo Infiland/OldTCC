@@ -1,0 +1,13 @@
+depth = -10
+level = 2561237485
+mFileID = 0
+mTitle = "Unknown"
+mDesc = ""
+mOwner = 0
+ownername = "Unknown"
+mScore = 0
+mLikes = 69
+mDislikes = 69
+steam_details = steam_ugc_request_item_details(level, 30);
+request = steam_get_user_persona_name(mOwner);
+alarm[0] = 2

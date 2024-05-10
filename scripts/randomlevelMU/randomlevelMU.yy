@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"randomlevelMU",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"randomlevelMU",
+  "parent":{
+    "name":"Multiplayer",
+    "path":"folders/Scripts/Multiplayer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

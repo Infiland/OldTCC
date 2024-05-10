@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_forthefans",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":1,
+  "conversionMode":0,
+  "duration":137.14252,
+  "name":"m_forthefans",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_forthefans.wav",
+  "type":1,
+  "volume":1.0,
+}

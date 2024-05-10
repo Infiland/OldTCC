@@ -1,0 +1,1 @@
+text = "Troop Challenge Complete"

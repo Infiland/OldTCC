@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"hidehudMU",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hidehudMU",
+  "parent":{
+    "name":"Multiplayer",
+    "path":"folders/Scripts/Multiplayer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

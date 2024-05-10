@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_hotdogtimephase3",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":24.0,
+  "name":"m_hotdogtimephase3",
+  "parent":{
+    "name":"Hotdog",
+    "path":"folders/Sounds/Music/Hotdog.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_hotdogtimephase3.wav",
+  "type":1,
+  "volume":1.0,
+}

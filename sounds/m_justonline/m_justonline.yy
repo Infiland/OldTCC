@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_justonline",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":1,
+  "conversionMode":0,
+  "duration":36.053974,
+  "name":"m_justonline",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_justonline",
+  "type":1,
+  "volume":0.55,
+}

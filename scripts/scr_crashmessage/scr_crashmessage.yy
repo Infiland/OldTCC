@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_crashmessage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_crashmessage",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -9,8 +9,8 @@
   "name":"o_Tutorial1",
   "overriddenProperties":[],
   "parent":{
-    "name":"tutorial",
-    "path":"folders/Objects/tutorial.yy",
+    "name":"Tutorial",
+    "path":"folders/Objects/Game/Tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

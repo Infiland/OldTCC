@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_playercontrolsconfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_playercontrolsconfig",
+  "parent":{
+    "name":"Controls",
+    "path":"folders/Scripts/Controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

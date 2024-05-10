@@ -1,0 +1,1 @@
+text = "Fun Mode!"

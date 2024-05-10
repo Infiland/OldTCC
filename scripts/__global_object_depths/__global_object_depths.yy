@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"__global_object_depths",
   "parent":{
-    "name":"compatibility",
-    "path":"folders/Scripts/compatibility.yy",
+    "name":"Default",
+    "path":"folders/Scripts/Default.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,0 +1,1 @@
+if global.skinMUlocked = false || global.hatMUlocked = false {image_index = 1}

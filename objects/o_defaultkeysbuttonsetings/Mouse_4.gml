@@ -1,0 +1,6 @@
+global.controlsskiplevel = "C"
+global.controlsinteract = "X"
+global.controlsjump = "Z"
+global.controlsmoveright = "39"
+global.controlsmoveleft = "37"
+global.controlsrestart = "R"

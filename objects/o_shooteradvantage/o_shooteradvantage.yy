@@ -1,13 +1,17 @@
 {
   "$GMObject":"",
   "%Name":"o_shooteradvantage",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"o_shooteradvantage",
   "overriddenProperties":[],
   "parent":{
-    "name":"bosses",
-    "path":"folders/Objects/danger/bosses.yy",
+    "name":"Hotdog",
+    "path":"folders/Objects/Danger/Bosses/Hotdog.yy",
   },
   "parentObjectId":null,
   "persistent":false,

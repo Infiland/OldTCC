@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_thecastle",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":84.01301,
+  "name":"m_thecastle",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_thecastle",
+  "type":1,
+  "volume":1.0,
+}

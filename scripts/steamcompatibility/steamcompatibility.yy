@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"steamcompatibility",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"steamcompatibility",
+  "parent":{
+    "name":"Achievements",
+    "path":"folders/Scripts/Achievements.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

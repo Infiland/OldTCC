@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_mainmenu",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":163.49756,
+  "name":"m_mainmenu",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_mainmenu",
+  "type":1,
+  "volume":1.0,
+}

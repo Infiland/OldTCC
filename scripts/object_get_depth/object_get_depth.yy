@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"object_get_depth",
   "parent":{
-    "name":"object",
-    "path":"folders/Scripts/compatibility/object.yy",
+    "name":"Default",
+    "path":"folders/Scripts/Default.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
