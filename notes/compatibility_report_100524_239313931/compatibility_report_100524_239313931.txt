@@ -1,0 +1,20 @@
+GameMaker Studio 1 font texture has been backed up at C:\Users\User\Downloads\The Colorful Creature.gmx\mvc\fonts\fnt_death\fnt_death.gms1.png
+Missing audiogroup for sound: 'm_basics' - setting to default audio group
+Missing audiogroup for sound: 'm_owthespikes' - setting to default audio group
+Missing audiogroup for sound: 'm_bosstime' - setting to default audio group
+Missing audiogroup for sound: 'snd_pickup' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump' - setting to default audio group
+Missing audiogroup for sound: 'snd_hitboss' - setting to default audio group
+Missing audiogroup for sound: 'snd_dead' - setting to default audio group
+Missing audiogroup for sound: 'snd_coin' - setting to default audio group
+Missing audiogroup for sound: 'snd_shooter' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosionboss' - setting to default audio group
+Missing audiogroup for sound: 'snd_gravity' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_move_point.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
