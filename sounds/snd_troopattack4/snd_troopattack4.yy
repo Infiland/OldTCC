@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_troopattack4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":1.023775,
+  "name":"snd_troopattack4",
+  "parent":{
+    "name":"Attack",
+    "path":"folders/Sounds/Sounds/Troop Sounds/Attack.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_troopattack4",
+  "type":1,
+  "volume":1.0,
+}

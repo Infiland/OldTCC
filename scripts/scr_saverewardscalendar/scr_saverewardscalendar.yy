@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_saverewardscalendar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_saverewardscalendar",
+  "parent":{
+    "name":"Calendar",
+    "path":"folders/Scripts/Calendar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

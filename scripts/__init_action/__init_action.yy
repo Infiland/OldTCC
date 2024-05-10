@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"__init_action",
   "parent":{
-    "name":"action",
-    "path":"folders/Scripts/compatibility/action.yy",
+    "name":"Default",
+    "path":"folders/Scripts/Default.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

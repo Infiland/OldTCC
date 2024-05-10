@@ -1,0 +1,1 @@
+get = http_get("https://www.timeapi.io/api/Time/current/zone?timeZone=Europe/Amsterdam")

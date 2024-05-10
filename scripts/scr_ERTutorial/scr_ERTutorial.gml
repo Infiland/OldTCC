@@ -1,0 +1,3 @@
+function scr_ERTutorial(){
+ global.chosenlevelER = choose(r_tutorialchallengelvl1,r_tutorialchallengelvl2,r_tutorialchallengelvl3,r_tutorialchallengelvl4,r_tutorialchallengelvl5,r_tutorialchallengelvl6)
+}

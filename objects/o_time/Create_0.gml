@@ -1,2 +1,0 @@
-global.time = 0
-

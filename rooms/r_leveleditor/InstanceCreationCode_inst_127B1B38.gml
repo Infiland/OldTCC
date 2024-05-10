@@ -1,0 +1,1 @@
+if global.leveleditortutorialsettings = 0 { instance_destroy() }

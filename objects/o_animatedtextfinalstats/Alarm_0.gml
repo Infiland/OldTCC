@@ -1,0 +1,1 @@
+if challengedeaths = 0 { if !steam_get_achievement("PERFECT_CHALLENGE") { steam_set_achievement("PERFECT_CHALLENGE") }}

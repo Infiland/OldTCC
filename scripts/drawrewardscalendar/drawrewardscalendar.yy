@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"drawrewardscalendar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawrewardscalendar",
+  "parent":{
+    "name":"Calendar",
+    "path":"folders/Scripts/Calendar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

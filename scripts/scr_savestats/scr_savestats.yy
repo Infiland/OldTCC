@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_savestats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_savestats",
+  "parent":{
+    "name":"Stats",
+    "path":"folders/Scripts/Stats.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

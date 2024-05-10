@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"kickoutofcalendar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"kickoutofcalendar",
+  "parent":{
+    "name":"Calendar",
+    "path":"folders/Scripts/Calendar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

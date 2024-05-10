@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_loadworkshopmedals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_loadworkshopmedals",
+  "parent":{
+    "name":"Workshop",
+    "path":"folders/Scripts/Workshop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

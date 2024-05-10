@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"deathMU",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deathMU",
+  "parent":{
+    "name":"Multiplayer",
+    "path":"folders/Scripts/Multiplayer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

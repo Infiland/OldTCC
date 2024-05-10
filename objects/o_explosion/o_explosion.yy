@@ -9,8 +9,8 @@
   "name":"o_explosion",
   "overriddenProperties":[],
   "parent":{
-    "name":"bosses",
-    "path":"folders/Objects/danger/bosses.yy",
+    "name":"Bosses",
+    "path":"folders/Objects/Danger/Bosses.yy",
   },
   "parentObjectId":null,
   "persistent":false,

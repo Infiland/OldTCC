@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_controlkeysupper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_controlkeysupper",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_loadrewardscalendarlocal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_loadrewardscalendarlocal",
+  "parent":{
+    "name":"Calendar",
+    "path":"folders/Scripts/Calendar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"loadhud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"loadhud",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

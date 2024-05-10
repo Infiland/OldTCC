@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a13155a2-91fb-4733-9ed7-26f22bb4880c","name":"a13155a2-91fb-4733-9ed7-26f22bb4880c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"09c405a2-6b03-47b1-aef6-002157946cb6","name":"09c405a2-6b03-47b1-aef6-002157946cb6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"467dbf05-c533-4f73-afd8-0a407cadf229","name":"467dbf05-c533-4f73-afd8-0a407cadf229","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b509d286-92ed-4475-b989-755a1343d6f2","name":"b509d286-92ed-4475-b989-755a1343d6f2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ecb8d4b2-40bf-45d6-b71a-dc1cdbc7eb26","blendMode":0,"displayName":"default","isLocked":false,"name":"ecb8d4b2-40bf-45d6-b71a-dc1cdbc7eb26","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"fdfe779d-45d1-4be3-b4a3-344557c68bfa","blendMode":0,"displayName":"default","isLocked":false,"name":"fdfe779d-45d1-4be3-b4a3-344557c68bfa","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"s_buttonadvantage",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"items",
-    "path":"folders/Sprites/keys/items.yy",
+    "name":"Hotdog",
+    "path":"folders/Sprites/Sprites/Danger/Bosses/Hotdog.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -70,14 +70,17 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a13155a2-91fb-4733-9ed7-26f22bb4880c","path":"sprites/s_buttonadvantage/s_buttonadvantage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"619d7d69-b9d2-4d93-ad68-dd7f1cd034b2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"467dbf05-c533-4f73-afd8-0a407cadf229","path":"sprites/s_buttonadvantage/s_buttonadvantage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"9517c9c3-8723-46a3-b601-f938bb3ff1ec","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"09c405a2-6b03-47b1-aef6-002157946cb6","path":"sprites/s_buttonadvantage/s_buttonadvantage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2d9f71c7-5272-4e75-849b-d8b2fce5e4d3","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b509d286-92ed-4475-b989-755a1343d6f2","path":"sprites/s_buttonadvantage/s_buttonadvantage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"62898e6e-d5ab-4f5a-8e17-156fd9f5baa1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
-    "visibleRange":null,
+    "visibleRange":{
+      "x":0.0,
+      "y":0.0,
+    },
     "volume":1.0,
     "xorigin":0,
     "yorigin":0,

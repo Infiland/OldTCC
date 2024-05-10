@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_bosswin",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":26.589296,
+  "name":"m_bosswin",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_bosswin",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_breakingblockscript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_breakingblockscript",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

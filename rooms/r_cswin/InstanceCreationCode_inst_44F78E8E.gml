@@ -1,0 +1,1 @@
+text = "Corrupted Spike Challenge"

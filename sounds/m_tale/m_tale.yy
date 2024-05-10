@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"m_tale",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":113.57143,
+  "name":"m_tale",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"m_tale.wav",
+  "type":1,
+  "volume":1.0,
+}

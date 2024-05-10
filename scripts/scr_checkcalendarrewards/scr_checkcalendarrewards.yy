@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_checkcalendarrewards",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_checkcalendarrewards",
+  "parent":{
+    "name":"Rewards",
+    "path":"folders/Scripts/Calendar/Rewards.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
